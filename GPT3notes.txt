@@ -1,0 +1,6 @@
+
+to fine tune:
+https://beta.openai.com/docs/guides/fine-tuning/preparing-your-dataset?fbclid=IwAR11JZM-sIDOV9z-7pXQCHSirqHLwUE-Cm5Aq-k7ZPL5lBioDsRrl3Dcx-U
+
+
+
